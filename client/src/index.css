@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    *{
+        /* border: 1px solid red; */
+        font-family: "Inter";
+    }
+  }
